@@ -1,0 +1,20 @@
+{
+  "name": "@logic-warlock/eslint-config-react",
+  "description": "Eslint React rules for Logic Warlock applications",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kaemon Lovendahl",
+  "contributors": [
+    "Kaemon Lovendahl <kaemonlovendahl@outlook.com>"
+  ],
+  "dependencies": {
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.5.0"
+  },
+  "peerDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.16.0"
+  }
+}
